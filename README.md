@@ -12,7 +12,10 @@ This bash script will contain the following features-
 
  <h1> Command for run bash script: </h1>
   ## chmod +wx <file_name.sh>
+  
   ## ./<file_name.sh> <sitename.com>
+  
+  
 
 Here is snapshots as a result:
 <h1 align="center">
