@@ -18,7 +18,7 @@ This bash script will contain the following features-
   
   
 
-Here is snapshots as a result:
+Here is some snapshots as a result:
 <h1 align="center">
   <picture><img src = "https://github.com/Nidhi-Bharti2407/LEMP-stack-docker-compose/blob/main/Screenshot%20from%202023-06-13%2016-41-59.png" width = 2000px></picture> <br>
   <picture><img src = "https://github.com/Nidhi-Bharti2407/LEMP-stack-docker-compose/blob/main/Screenshot%20from%202023-06-13%2016-44-32.png" width = 2000px></picture> <br>
