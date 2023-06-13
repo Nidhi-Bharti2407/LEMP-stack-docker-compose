@@ -11,9 +11,10 @@ This bash script will contain the following features-
 7. Added one more subcommand to delete the site (deleting containers and local files).
 
  <h1> Command for run bash script: </h1>
-  ## chmod +wx <file_name.sh>
   
-  ## ./<file_name.sh> <sitename.com>
+  `chmod +wx <file_name.sh>`
+  
+  `./<file_name.sh> <sitename.com>`
   
   
 
