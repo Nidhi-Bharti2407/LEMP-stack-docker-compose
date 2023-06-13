@@ -28,15 +28,15 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
-# Entry in /etc/hosts
+# Create an /etc/hosts entry for the site
 site_name="$1"
 echo "127.0.0.1:8000 $site_name" >> /etc/hosts
-
-#creating required files
+ 
+ # Create a directory for the WordPress site
 mkdir wordpress-file
 cd wordpress-file
 
-# Creating public and nginx
+# Create public and nginx file
 echo "Creating nginx configuration file"
 mkdir public nginx
 cd nginx
