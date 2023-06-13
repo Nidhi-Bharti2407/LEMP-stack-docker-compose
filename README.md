@@ -10,6 +10,9 @@ This bash script will contain the following features-
 6. Added another subcommand to enable/disable the site (stopping/starting the containers)
 7. Added one more subcommand to delete the site (deleting containers and local files).
 
+ <h1> Command for run bash script: </h1>
+  ## chmod +wx <file_name.sh>
+  ## ./<file_name.sh> <sitename.com>
 
 Here is snapshots as a result:
 <h1 align="center">
@@ -18,5 +21,6 @@ Here is snapshots as a result:
   <picture><img src = "https://github.com/Nidhi-Bharti2407/LEMP-stack-docker-compose/blob/main/Screenshot%20from%202023-06-13%2016-44-42.png" width = 2000px></picture> <br>
    <picture><img src = "https://github.com/Nidhi-Bharti2407/LEMP-stack-docker-compose/blob/main/Screenshot%20from%202023-06-13%2016-45-34.png" width = 2000px></picture> <br>
    <picture><img src = "https://github.com/Nidhi-Bharti2407/LEMP-stack-docker-compose/blob/main/Screenshot%20from%202023-06-13%2017-23-59.png" width = 2000px></picture>
-  
   </h1>
+
+  
